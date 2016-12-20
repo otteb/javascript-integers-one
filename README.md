@@ -19,7 +19,9 @@ list_squared(42, 250) --> [[42, 2500], [246, 84100]]
 MY CODE - copy from here down;
 
 ```Javscript
-//this function will be run for each number in the specified range to determine if the number passess all specifications in the directions;
+//this function will be run for each number in the specified
+// range to determine if the number passess all specifications
+// in the directions;
 
 
 function tester(value)
