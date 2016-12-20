@@ -20,7 +20,7 @@ MY CODE - copy from here down;
 
 //this function will be run for each number in the specified range to determine if the number passess all specifications in the directions;
 
-function tester(value)
+``` function tester(value)
 {
   var num = value;
   //this function find the divisibles of passed value;
@@ -102,4 +102,4 @@ function listSquared(m, n)
     }
   }
   return ansArray;
-}
+} ```
